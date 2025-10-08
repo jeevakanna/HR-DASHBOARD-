@@ -40,8 +40,12 @@ Applying HR analytics concepts to real-world workforce data.
 
 
 incites and recommendations
-improve the workforce of the R&D dep 
-investigate and develop new retention strategies
-find the reason for decline in hiring trend
-provide training or underperforming workforce and motivate others
+
+1.improve the workforce of the R&D dep 
+
+2.investigate and develop new retention strategies
+
+3.find the reason for decline in hiring trend
+
+4.provide training or underperforming workforce and motivate others
 
